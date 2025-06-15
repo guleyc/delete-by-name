@@ -18,7 +18,7 @@ A simple Python script to search for and delete all files with a specific name (
 
 2. **Run the script:**
    ```sh
-   python delete_by_name.py
+   python file_deleter.py
    ```
 
 3. **Follow the prompts:**
